@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18090" started-at="2017-03-08T19:58:30Z" finished-at="2017-03-08T19:58:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18090" started-at="2017-03-08T19:58:30Z" finished-at="2017-03-08T19:58:48Z">
+      <class name="learn.AmazonTest$AmazonMethods">
+        <test-method status="PASS" signature="Dealscheck()[pri:0, instance:learn.AmazonTest$AmazonMethods@4efc180e]" name="Dealscheck" duration-ms="317" started-at="2017-03-08T14:58:46Z" finished-at="2017-03-08T14:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dealscheck -->
+      </class> <!-- learn.AmazonTest$AmazonMethods -->
+      <class name="learn.AmazonTest">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:learn.AmazonTest@5fbdfdcf]" name="beforetest" is-config="true" duration-ms="15904" started-at="2017-03-08T14:58:30Z" finished-at="2017-03-08T14:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="SearchItem()[pri:0, instance:learn.AmazonTest@5fbdfdcf]" name="SearchItem" duration-ms="238" started-at="2017-03-08T14:58:46Z" finished-at="2017-03-08T14:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchItem -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:learn.AmazonTest@5fbdfdcf]" name="aftertest" is-config="true" duration-ms="1598" started-at="2017-03-08T14:58:46Z" finished-at="2017-03-08T14:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- learn.AmazonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
