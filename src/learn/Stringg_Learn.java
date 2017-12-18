@@ -3,6 +3,10 @@ package learn;
 public class Stringg_Learn {
 
 	public static void main(String[] args) {
+		
+		//changes made in the github
+		System.out.println("I am just making changes in git hub");
+		
 		String country = new String();
 		String country_1 = new String();
 		country = "India";
